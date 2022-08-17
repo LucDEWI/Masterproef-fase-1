@@ -1,6 +1,6 @@
 # Masterproef-fase-1
 
-## Masters project 2022: Design and validation of a bin picking robot vison algorithm.
+## Masters project 2022: Design and validation of a bin picking robot vision algorithm.
 
 This project contains the first stage of this project. This consists of an algorithm that can detect the position of an object via color filters. 
 
