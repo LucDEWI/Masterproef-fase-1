@@ -35,7 +35,7 @@ This directory contains the functions that are used in the scripts.
 
 ## Herkenning en accuraatheid van testen
 
-This excel file contains the results of test on this algorithm.
+This excel file contains the results of tests on this algorithm.
 
 # Use
 
