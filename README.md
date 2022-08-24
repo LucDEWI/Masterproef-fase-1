@@ -33,6 +33,10 @@ This directory contains the scripts that are used in this project. The order in 
 
 This directory contains the functions that are used in the scripts.
 
+## Herkenning en accuraatheid van testen
+
+This excel file contains the results of test on this algorithm.
+
 # Use
 
 To use this project execute the scripts in the following order.
